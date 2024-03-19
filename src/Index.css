@@ -1,0 +1,11 @@
+.navbar{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: bisque;
+    text-transform: uppercase;
+    line-height: 26px;
+    box-shadow: 0 8px 6px -6px gray;
+    border-bottom: 0.5px gray;
+}
+.active{
+    border-bottom: 2px solid  black;
+}
